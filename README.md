@@ -28,3 +28,21 @@
 * Visualized strong corollary relationships using Seaborn, Matplotlib, and Jupyter notebook.
 * Trained and evaluated four different classifier models Logistic Regression, KNN, Decision Tree, Neural Network, Random Forest, and Gradient Boosting using Scikit-learn.
 * Assessed model performance by calculating accuracy and F1-Score. Visualized model 
+
+### Drug Consumption
+#### EDA
+* Conducted a full EDA on a drug consumptions dataset. The data included personality scores, demographic information, and drug consumption frequency for over 15 drugs. 
+* Conducted standard pipeline approach to load and clean data using Pandas.
+* Encoded ordinal and nominal features for easy data manipulation.
+* Described and visualized average use of each drug using matplotlib, seaborn, and Jupyter notebook.
+* Provided comprehensive conclusions for each section of analysis including citations. 
+
+#### Prediction
+* Given several personality measures and demographic data can we predict whether someone will be a drug user or non-user.
+* Collected and cleaned data from the UCI Machine Learning Repository 
+* Conducted standard pipeline approach to load, clean, and preprocess data using Pandas, NumPy, and Scikit-learn.
+* Demonstrated feature transformation and engineering with Pandas and NumPy
+* Visualized corollary relationships with matplotlib, seaborn, and Jupyter notebook.
+* Conducted predictive analysis on four drugs (cocaine, heroin, methamphetamines, and nicotine) using Logistic Regression, Ridge Classifier, Support Vector Machines, and Random Forest Classifier. 
+* Assessed model performance by calculating accuracy and F1-Score. Predicted cocaine use with 100% accuracy, and nicotine use with 79.9 accuracies.
+
